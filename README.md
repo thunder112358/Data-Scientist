@@ -1,2 +1,2 @@
-# Data-Scientist-
-Learning Path to Data scientist using 4-years
+# Data-Scientist
+Learning Path in Data Science using 4-years
